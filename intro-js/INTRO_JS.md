@@ -1,4 +1,4 @@
-# Hello Javascript
+# Introduction to Javascript
 
 1. Introduction to JavaScript, Run JavaScript in VSCode
 
@@ -108,3 +108,6 @@
 ### important set:
 
 `var, let, const, function, return, if, else, for, while, break, continue, switch, case, try, catch, class, extends, super, import, export, this`
+
+6. Know the fundamentals of JS Numbers
+7. Mathematical operation shorthand
