@@ -1,5 +1,5 @@
 const age = 62;
-const price = 500;
+const price = 600;
 
 if (age <= 12) {
   console.log("You can eat for free");
