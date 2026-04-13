@@ -1,10 +1,3 @@
-/**
- * If num1 is bigger than num2:
- * result = double of num1
- * otherwise:
- * result = sum of num1 and num2
- */
-
 const num1 = 12;
 const num2 = 8;
 
