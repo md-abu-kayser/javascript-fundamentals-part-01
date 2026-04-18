@@ -11,7 +11,7 @@ const studentTotalMarks =
   subjectPhysics +
   subjectBangle;
 
-// console.log(studentTotalMarks);
+console.log(studentTotalMarks);
 
 const subAverage = studentTotalMarks / 5;
 const result = parseFloat(subAverage.toFixed(2));
